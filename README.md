@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milan585
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning responsive design
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail: paunovicmilan04@gmail.com, instagram: @milan__paunovic
 
